@@ -1,4 +1,4 @@
-# In this project I use: Python, HTML and CSS
+# In this project I use: Python/Django, HTML and CSS
 
 It's a shop website where you can post items, edit them and delete.
 
